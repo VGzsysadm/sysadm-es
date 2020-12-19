@@ -4,10 +4,10 @@
 
 ### Contenido
 
-* En este repositorio se van a subir todos los ficheros utilizados en los posts del blog para que estén al alcance de todo el mundo.
+* Repositorio para ubicar los ficheros utilizados en los posts del Blog sysadm.es
 
 ## Authors
 
-* **VGzsysadm** - *https://sysadm.es*  [@VGzsysadm](https://github.com/VGzsysadm)
+* **VGzsysadm** - *https://sysadm.es*  [@VGzsysadm](https://github.com/VGzsysadm) - [Twitter](https://twitter.com/Sysadm_es)
 
 
