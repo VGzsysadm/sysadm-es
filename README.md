@@ -1,6 +1,6 @@
 # Sysadm.es
 
-![Alt text](public/jamonjunta.jpg?raw=true "LaJamonJunta")
+![Alt text](new-1-1024x131.jpg?raw=true "Sysadm.es")
 
 ### Prerequisites
 
