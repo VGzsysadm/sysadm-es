@@ -1,6 +1,6 @@
 # Sysadm.es
 
-![Alt text](new-1-1024x131.jpg?raw=true "Sysadm.es")
+![Alt text](img/new-1-1024x131.jpg?raw=true "Sysadm.es")
 
 ### Contenido
 
