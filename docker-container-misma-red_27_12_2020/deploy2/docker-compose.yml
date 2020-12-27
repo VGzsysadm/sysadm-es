@@ -3,7 +3,7 @@ services:
   web2:
     image: nginx:stable-alpine
     ports:
-      - "902:80"
+      - "901:80"
     networks:
       - network_test
 networks:
