@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  web1:
+    image: nginx:stable-alpine
+    ports:
+      - "900:80"
+    networks:
+      - network_test
+networks:
+  network_test:
+    external: true
